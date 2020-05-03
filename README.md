@@ -1,5 +1,5 @@
 # winston-json-log-formatter
-[![npm version](https://badge.fury.io/js/winston-json-log-formatter.svg)](https://badge.fury.io/js/winston-json-log-formatter)
+[![npm version](https://badge.fury.io/js/winston-json-log-formatter.svg)](https://www.npmjs.com/package/winston-json-log-formatter)
 
 This is a very simple Node.js module which creates a console transport (by default) for [winston](https://github.com/winstonjs/winston) to log messages in JSON format.
 
