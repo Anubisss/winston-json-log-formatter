@@ -1,0 +1,23 @@
+{
+  "name": "winston-json-log-formatter",
+  "version": "1.0.0",
+  "description": "A simple winston JSON log formatter.",
+  "keywords": [
+    "winston",
+    "logger",
+    "json",
+    "format",
+    "formatter"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Vas, anuka <david.vas1@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/Anubisss/winston-json-log-formatter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anubisss/winston-json-log-formatter.git"
+  }
+}
